@@ -1,4 +1,4 @@
-This is  where I am going to build tools to make the life of the vbat operator more easy
+This is  where I am going to build tools to make the life of the vbat operator easier.
 
 <!---
 rpullen-muav/rpullen-muav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
